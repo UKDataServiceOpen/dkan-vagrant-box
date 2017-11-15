@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo "========================="
-echo "| UKDS DKAN VAGRANT BOX |"
-echo "|    Version 1.0.4.     |"
+echo "|   DKAN VAGRANT BOX    |"
+echo "|       Ver 1.0.4       |"
 echo "| --------------------- |"
 echo "|  If it doesn't work,  |"
 echo "|     blame Obama.      |"

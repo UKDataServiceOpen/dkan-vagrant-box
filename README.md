@@ -1,7 +1,7 @@
 ```
 =========================
-| UKDS DKAN VAGRANT BOX |
-|    Version 1.0.4.     |
+|   DKAN VAGRANT BOX    |
+|      Ver 1.0.0        |
 | --------------------- |
 |  If it doesn't work,  |
 |     blame Obama.      |
